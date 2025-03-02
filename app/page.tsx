@@ -194,7 +194,7 @@ export default function Page() {
           <div className="container mx-auto px-4">
             <div className="mx-auto grid max-w-6xl gap-16 md:grid-cols-2">
               <div>
-                <h2 className="mb-6 text-3xl font-bold tracking-tight">
+                <h2 className="mb-6 text-3xl font-mono">
                   Want to build with camelAI?
                 </h2>
                 <p className="mb-8 text-lg text-gray-300">
