@@ -52,7 +52,6 @@ export default function Page() {
       </header>
 
       <main>
-
         <section className="relative overflow-hidden bg-gradient-to-l from-[#ff9156cc] via-[#f796e4cc] to-[#8a84a4cc] backdrop-blur-sm shadow-2xl py-24">
           <div className="container mx-auto px-4 text-center">
             <h1 className="mb-4 text-5xl font-bold tracking-tight">
@@ -89,11 +88,11 @@ export default function Page() {
                 Y Combinator backed
               </div>
               <div className="flex items-center rounded bg-gray-800/50 px-3 py-1 text-xs">
-                <Shield className="mr-1 h-3 w-3" />
+                <Lock className="mr-1 h-3 w-3" />
                 Enterprise Security
               </div>
               <div className="flex items-center rounded bg-gray-800/50 px-3 py-1 text-xs">
-                <Lock className="mr-1 h-3 w-3" />
+                <Shield className="mr-1 h-3 w-3" />
                 100% Data Privacy
               </div>
             </div>
